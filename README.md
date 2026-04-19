@@ -63,7 +63,7 @@ python main.py --file ./samples/vulnerable_code.cpp --format json
     "remediation": "Store sensitive keys in environment variables or a Secret Manager."
   }
 ]
-
+```
 ## Why This Project?
 Developed to improve the Signal-to-Noise ratio in security scanning. By utilizing AI to interpret code context, this tool empowers engineers to prioritize critical threats over false positives.
 
